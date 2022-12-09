@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactjsBassicUpdate/static/css/main.64372e79.css",
+    "main.js": "/reactjsBassicUpdate/static/js/main.d69290df.js",
+    "static/media/imgHeader.jpg": "/reactjsBassicUpdate/static/media/imgHeader.1565fc4e05bc12a8da4d.jpg",
+    "index.html": "/reactjsBassicUpdate/index.html",
+    "main.64372e79.css.map": "/reactjsBassicUpdate/static/css/main.64372e79.css.map",
+    "main.d69290df.js.map": "/reactjsBassicUpdate/static/js/main.d69290df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64372e79.css",
+    "static/js/main.d69290df.js"
+  ]
+}
